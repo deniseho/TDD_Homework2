@@ -11,12 +11,23 @@ namespace PotterShoppingCart
         public double Checkout(List<Book> order)
         {
             var orderCount = order.Count();
+            var distinctEpisodeCount = order.GroupBy(x => x.Episode).Count();
 
-            var discount = GetDiscount(orderCount);
+            var discount = GetDiscount(distinctEpisodeCount);
+            var duplicateEpisodes = CheckDuplicate(orderCount, distinctEpisodeCount);
 
             var bookPrice = new Book().Price;
+            var total = bookPrice * distinctEpisodeCount * discount + duplicateEpisodes * bookPrice;
+            
+            return total;
+        }
 
-            return orderCount * bookPrice * discount;
+        private int CheckDuplicate(int orderCount, int distinctEpisodeCount)
+        {
+            if (orderCount == distinctEpisodeCount)
+                return 0;
+            else
+                return orderCount - distinctEpisodeCount;
         }
 
         private double GetDiscount(int orderCount)
