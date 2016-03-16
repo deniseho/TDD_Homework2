@@ -39,5 +39,21 @@ namespace PotterShoppingCart.Tests
             var actual = target.Checkout(order);
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod()]
+        public void 第一二三集各買一本_價格應為270元()
+        {
+            List<Book> order = new List<Book>()
+            {
+                new Book{Episode=1},
+                new Book{Episode=2},
+                new Book{Episode=3}
+            };
+
+            var target = new ShoppingCart();
+            var expected = 270;
+            var actual = target.Checkout(order);
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
