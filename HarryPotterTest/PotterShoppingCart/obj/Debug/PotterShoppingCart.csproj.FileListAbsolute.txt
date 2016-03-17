@@ -1,0 +1,15 @@
+c:\users\70896\documents\visual studio 2012\Projects\HarryPotterTest\PotterShoppingCart\bin\Debug\PotterShoppingCart.dll
+c:\users\70896\documents\visual studio 2012\Projects\HarryPotterTest\PotterShoppingCart\bin\Debug\PotterShoppingCart.pdb
+c:\users\70896\documents\visual studio 2012\Projects\HarryPotterTest\PotterShoppingCart\obj\Debug\PotterShoppingCart.csprojResolveAssemblyReference.cache
+c:\users\70896\documents\visual studio 2012\Projects\HarryPotterTest\PotterShoppingCart\obj\Debug\PotterShoppingCart.dll
+c:\users\70896\documents\visual studio 2012\Projects\HarryPotterTest\PotterShoppingCart\obj\Debug\PotterShoppingCart.pdb
+C:\Users\msi-1\Dropbox\HarryPotterTest\PotterShoppingCart\bin\Debug\PotterShoppingCart.dll
+C:\Users\msi-1\Dropbox\HarryPotterTest\PotterShoppingCart\bin\Debug\PotterShoppingCart.pdb
+C:\Users\msi-1\Dropbox\HarryPotterTest\PotterShoppingCart\obj\Debug\PotterShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\msi-1\Dropbox\HarryPotterTest\PotterShoppingCart\obj\Debug\PotterShoppingCart.dll
+C:\Users\msi-1\Dropbox\HarryPotterTest\PotterShoppingCart\obj\Debug\PotterShoppingCart.pdb
+C:\Users\msi-1\Desktop\TDD_Homework2\HarryPotterTest\PotterShoppingCart\bin\Debug\PotterShoppingCart.dll
+C:\Users\msi-1\Desktop\TDD_Homework2\HarryPotterTest\PotterShoppingCart\bin\Debug\PotterShoppingCart.pdb
+C:\Users\msi-1\Desktop\TDD_Homework2\HarryPotterTest\PotterShoppingCart\obj\Debug\PotterShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\msi-1\Desktop\TDD_Homework2\HarryPotterTest\PotterShoppingCart\obj\Debug\PotterShoppingCart.dll
+C:\Users\msi-1\Desktop\TDD_Homework2\HarryPotterTest\PotterShoppingCart\obj\Debug\PotterShoppingCart.pdb
